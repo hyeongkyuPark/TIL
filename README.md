@@ -21,3 +21,4 @@
 
 ### GIT
 - [Git & GitHub](./Git/Git&GitHub.md)
+- [Git 용어정리](./Git/GitTerminology)
