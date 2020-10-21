@@ -28,3 +28,4 @@
 
 ### JavaScript
 - [JavaScript 란?](./JavaScript/JavaScript.md)
+- [JavaScript Scope](./JavaScript/JavaScript_Scope.md)
