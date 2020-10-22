@@ -31,6 +31,7 @@
 - [JavaScript Scope](./JavaScript/JavaScript_Scope.md)
 - [var&let&const](./JavaScript/var&let&const.md)
 - [DOM(Document Object Model) 이란?](./JavaScript/DOM.md)
+- [DOM_Handling(1)_DOMQuery(DOM 선택하기)](./JavaScript/DOM_Handling(1)_DOMQuery.md)
 
 ### Browser
 - [브라우저 렌더링 과정](./Browser/Browser_Rendering.md)
