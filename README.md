@@ -39,6 +39,7 @@
 - [Excution_Contenxt(1)(실행 컨텍스트란?)](./JavaScript/Excution_Contenxt(1).md)
 - [Scope_Chain(스코프 체인)](./JavaScript/Scope_Chain.md)
 - [Prototype-based(1)_OOP(프로토타입 기반 객체지향 프로그래밍)](./JavaScript/Prototype-based(1)_OOP.md)
+- [Ajax(Asynchronous Javascript and XML)](./Javascript/Ajax.md)
 
 ### Browser
 - [브라우저 렌더링 과정](./Browser/Browser_Rendering.md)
