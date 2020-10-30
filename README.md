@@ -40,6 +40,7 @@
 - [Scope_Chain(스코프 체인)](./JavaScript/Scope_Chain.md)
 - [Prototype-based(1)_OOP(프로토타입 기반 객체지향 프로그래밍)](./JavaScript/Prototype-based(1)_OOP.md)
 - [Prototype-based(2)_Inheritance(상속과 프로토타입)](./JavaScript/Prototype-based(2)_Inheritance.md)
+- [Prototype-based(3)_proto(프로토타입 접근자 프로퍼티)](./JavaScript/Prototype-based(3)_proto.md)
 - [Ajax(Asynchronous Javascript and XML)](./Javascript/Ajax.md)
 - [XMLHttpRequest](./Javascript/XMLHttpRequest.md)
 ### Browser
