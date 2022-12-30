@@ -51,4 +51,4 @@
 - [NoSQL 과 MongoDB](./MongoDB/NoSQL.md)
 
 ### 직접 활용할 수 있는 SQL(인프런)
-- [트랜잭션의 개념 (DB를 사용하는 이유)](./SQL_inflearn/01_.md)
+- [트랜잭션의 개념 (DB를 사용하는 이유)](./SQL_inflearn/01_transaction.md)
