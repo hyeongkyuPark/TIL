@@ -55,4 +55,6 @@
 - [트랜잭션의 개념 (DB를 사용하는 이유)](./SQL_inflearn/01_transaction.md)
 
 ### Kotlin/Spring
+- [객체지향 4가지 핵심요소 & 5가지 설계 원칙](./Kotlin-Spring/01_ODD.md)
+- [디자인 패턴](./Kotlin-Spring/02_design_pattern.md)
 
